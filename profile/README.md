@@ -13,6 +13,8 @@ Current Projects:
 | Windfarms                            | Johan         | Pablo R.              |                  |
 | Quantum Computing for Radioastronomy | Nico          | Johan, Leon, Pablo R. |                  |
 | Biomarkers for Parkinson             | Peter Kok     | Pablo R.              |                  |
+| Nano-optics                          | Nico          | Stef, Hanno           | Jens             |
+
 
 Past Projects:
 --------------
