@@ -8,15 +8,18 @@ Current Projects:
 |--------------------------------------|---------------|-----------------------|------------------|
 | Fusion Reactor                       | Stef          | Victor                |                  |
 | Artificial Brain                     | ?             | Aron, Luisa           |                  |
-| Solid State Battery                  | Nico          | Leon, Laura           | Victor           |
+| Solid State Battery                  | Leon          | Laura, Nico           | Victor           |
 | Light in the Dark                    | Nico          | Victor                | Pablo L., Felipe |
 | Windfarms                            | Johan         | Pablo R.              |                  |
 | Quantum Computing for Radioastronomy | Nico          | Johan, Leon, Pablo R. |                  |
 | Biomarkers for Parkinson             | Peter Kok     | Pablo R.              |                  |
 | Nano-optics                          | Nico          | Stef, Hanno           | Jens             |
+| RECRUIT                              | Ben           | Leon, Bouwe           |                  |
 
 
 Past Projects:
 --------------
 
-None
+| Project   | Lead Engineer | Engineers                                      | End date         | Notes                                                |
+|-----------|---------------|------------------------------------------------|------------------|------------------------------------------------------|
+| DIANNA    | Elena         | Aron, Christiaan, Giulia, Leon, Patrick, Yang  | 01-03-2022       | Extensions as part of other projects are still in progress |   
