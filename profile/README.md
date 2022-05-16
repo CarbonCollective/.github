@@ -6,14 +6,14 @@ Current Projects:
 
 | Project                              | Lead Engineer | Engineers             | Past engineers   |
 |--------------------------------------|---------------|-----------------------|------------------|
-| Fusion Reactor                       | Stef          | Victor                |                  |
+| [Fusion Reactor](https://github.com/CarbonCollective/fusion-dUQtools)                       | Stef          | Victor                |                  |
 | Artificial Brain                     | ?             | Aron, Luisa           |                  |
 | Solid State Battery                  | Leon          | Laura, Nico           | Victor           |
 | Light in the Dark                    | Nico          | Victor                | Pablo L., Felipe |
 | Windfarms                            | Johan         | Pablo R.              |                  |
 | Quantum Computing for Radioastronomy | Nico          | Johan, Leon, Pablo R. |                  |
 | Biomarkers for Parkinson             | Peter Kok     | Pablo R.              |                  |
-| Nano-optics                          | Nico          | Stef, Hanno           | Jens             |
+| [Nano-optics](https://github.com/hpgem/)                          | Nico          | Stef, Hanno           | Jens             |
 | RECRUIT                              | Ben           | Leon, Bouwe           |                  |
 
 
