@@ -7,7 +7,7 @@ Current Projects:
 | Project                              | Lead Engineer | Engineers             | Past engineers   |
 |--------------------------------------|---------------|-----------------------|------------------|
 | [Fusion Reactor](https://github.com/CarbonCollective/fusion-dUQtools)                       | Stef          | Victor                |                  |
-| Artificial Brain                     | ?             | Aron, Luisa           |                  |
+| [Artificial Brain](https://github.com/GrainLearning)                 | Luisa         | Aron, Luisa           |                  |
 | Solid State Battery                  | Leon          | Laura, Nico           | Victor           |
 | Light in the Dark                    | Nico          | Victor                | Pablo L., Felipe |
 | Windfarms                            | Johan         | Pablo R.              |                  |
