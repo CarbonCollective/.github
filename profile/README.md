@@ -16,10 +16,17 @@ Current Projects:
 | [Nano-optics](https://github.com/hpgem/)                          | Nico          | Stef, Hanno           | Jens             |
 | RECRUIT                              | Ben           | Leon, Bouwe           |                  |
 
-
 Past Projects:
 --------------
 
 | Project   | Lead Engineer | Engineers                                      | End date         | Notes                                                |
 |-----------|---------------|------------------------------------------------|------------------|------------------------------------------------------|
 | DIANNA    | Elena         | Aron, Christiaan, Giulia, Leon, Patrick, Yang  | 01-03-2022       | Extensions as part of other projects are still in progress |   
+
+Presentations/discussions about projects (planned):
+=================================================
+
+| Project   | Date  | 
+|---|---|
+| Windfarms | 02 -06-2022 |
+| Fusion Reactor | 09-06-2022 |
